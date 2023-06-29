@@ -2,7 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+First you need to create a react-app by typing the following in the terminal (you need to have node.js installed in your computer to run this):
+
+npm create react-app codepen
+
+after this you need to install following libraries in your project folder (codepen):
+
+1. npm install react-codemirror2 --force
+
+2. npm i @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons @fortawesome/fontawesome-svg-core
 
 In the project directory, you can run:
 
